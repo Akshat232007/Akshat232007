@@ -30,7 +30,7 @@ I build projects, solve programming problems, and continuously improve my softwa
 
 ## Currently Learning
 
-`DSA` · `Advanced Python` · `OOP` · `JavaScript` · `Backend Development` · `Git`
+`DSA` · `Advanced Python` · `OOP` · `Backend Development`
 
 ## What I Build
 
