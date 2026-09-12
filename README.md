@@ -1,6 +1,6 @@
 # Hi, I'm Akshat Halwai
 
-**BSc Computer Science Student | Python Developer | Aspiring Software Engineer**
+**BSc Computer Science Student | Python Developer | Software Engineer**
 
 I build projects, solve programming problems, and continuously improve my software development skills.
 
