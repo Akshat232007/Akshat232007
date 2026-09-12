@@ -1,4 +1,4 @@
-# Hi, I'm Akshat
+# Hi, I'm Akshat Halwai
 
 **BSc Computer Science Student | Python Developer | Aspiring Software Engineer**
 
