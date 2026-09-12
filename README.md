@@ -35,11 +35,8 @@ I build projects, solve programming problems, and continuously improve my softwa
 ## What I Build
 
 - Python applications
-- Backend APIs
 - Database-driven applications
 - Web applications
-- Data analysis projects
-- DSA and problem-solving solutions
 
 ## Contribution Snake
 
