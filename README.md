@@ -54,8 +54,6 @@ I build projects, solve programming problems, and continuously improve my softwa
 
 ## Contribution Snake
 
-## Contribution Snake
-
 <p align="center">
   <picture>
     <source
