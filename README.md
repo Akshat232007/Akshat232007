@@ -14,7 +14,7 @@ I build projects, solve programming problems, and continuously improve my softwa
 
 ## Achievement
 
-🏆 **Ranked 5th** in the Internal Hackathon organized by **Sheth L.U.J. and Sir M.V. College of Science**
+🏆 **Ranked 5th** in the Internal Hackathon organized by **Sheth L.U.J. and Sir M.V. College of Science & Commerce**
 
 ## Tech Stack
 
