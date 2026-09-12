@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Akshat
 
-<!--
-**Akshat232007/Akshat232007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc Computer Science Student | Python Developer | Aspiring Software Engineer**
 
-Here are some ideas to get you started:
+I build projects, solve programming problems, and continuously improve my software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* BSc Computer Science — 2nd Year
+* Strong in **Python**
+* Learning **DSA, JavaScript & Backend Development**
+* Practicing on **LeetCode & HackerRank**
+* Interested in **Software Engineering & Backend Development**
+
+## Achievement
+
+🏆 **Ranked 5th** in the Internal Hackathon organized by **Sheth L.U.J. and Sir M.V. College of Science**
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, SQL
+**Web:** HTML, CSS, JavaScript, Flask, PHP
+**Databases:** MySQL, SQLite
+**Data:** NumPy, Pandas, Matplotlib, Seaborn
+**Tools:** Git, GitHub, VS Code, XAMPP
+
+## Currently Learning
+
+`DSA` · `Advanced Python` · `OOP` · `JavaScript` · `Backend Development` · `Git`
+
+## What I Build
+
+* Python applications
+* Backend APIs
+* Database-driven applications
+* Web applications
+* Data analysis projects
+* DSA and problem-solving solutions
+
+## GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat232007&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat232007&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akshat232007&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat232007&theme=github-compact&hide_border=true" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshat232007/Akshat232007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Akshat232007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshat-halwai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+**Learning → Building → Solving → Improving**
